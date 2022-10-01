@@ -2,6 +2,7 @@
 
 - **SE_script.py** contains the main Python code.
 - **project_pydocs** contains the pydocs for the user-defined and inbuilt modules used in SE_script.py
+- **file.log** contains the log file of SE_Script.py
 - **xml_to_csv_data.csv** is the final CSV file generated at the end of the Python task.
 - The above CSV file has been saved to an AWS S3 bucket. To access the file, please sign into your AWS account and go to:
  [Link]( https://myxmldatabucket.s3.ap-south-1.amazonaws.com/xml_to_csv_data.csv)  <br>
